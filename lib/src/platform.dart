@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'dart:typed_data';
 
 import 'package:crypto/crypto.dart';
-import 'package:extended_image_library/extended_image_library.dart';
+import 'package:eshop_extended_image_library/extended_image_library.dart';
 import 'package:flutter/widgets.dart';
 
 import 'extended_network_image_provider.dart';
