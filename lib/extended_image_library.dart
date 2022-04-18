@@ -1,4 +1,4 @@
-library extended_image_library;
+library eshop_extended_image_library;
 
 export 'package:http_client_helper/http_client_helper.dart' hide Response;
 
